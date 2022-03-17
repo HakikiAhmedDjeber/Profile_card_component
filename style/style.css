@@ -16,7 +16,7 @@ ul {
 }
 @media (max-width: 1444px) {
   .container {
-    width: 1000px;
+    width: 100%;
   }
 }
 @media (max-width: 768px) {
@@ -34,7 +34,7 @@ body {
 .container {
   position: relative;
   margin: 0 auto;
-  height: 600px;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
